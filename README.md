@@ -9,8 +9,8 @@ Proyek ini diajukan untuk memenuhi tugas **Ujian Akhir Semester (UAS) Pemrograma
 ## 👥 Identitas Pengembang
 *   **Nama Mahasiswa**: Sofyan Agung
 *   **NIM**: 231011400159
-*   **Mata Kuliah**: Pemrograman Mobile
-*   **Kelas**: Mobile Programming
+*   **Mata Kuliah**: Mobile Progamming
+*   **Kelas**: 06tplp003
 
 ---
 
